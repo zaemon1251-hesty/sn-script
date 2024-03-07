@@ -1,0 +1,5 @@
+2024-03-06 19:59:05.693 | INFO     | __main__:main:100 - model_type:gpt-4-1106-preview
+2024-03-06 19:59:05.693 | INFO     | __main__:main:101 - random_seed:10
+2024-03-06 19:59:05.693 | INFO     | __main__:main:102 - half_number:1
+2024-03-06 19:59:05.693 | INFO     | __main__:main:190 - Start subcategory classification.
+2024-03-06 20:03:11.562 | INFO     | __main__:main:197 - Done subcategory classification. Saved to /Users/heste/workspace/sn-script/database/20240306_subcategory_llm_annotation.csv

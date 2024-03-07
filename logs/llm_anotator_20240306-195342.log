@@ -1,0 +1,151 @@
+2024-03-06 19:53:42.725 | INFO     | __main__:main:100 - model_type:gpt-4-1106-preview
+2024-03-06 19:53:42.726 | INFO     | __main__:main:101 - random_seed:10
+2024-03-06 19:53:42.726 | INFO     | __main__:main:102 - half_number:1
+2024-03-06 19:53:42.726 | INFO     | __main__:main:176 - Start subcategory classification.
+2024-03-06 19:53:42.735 | ERROR    | __main__:annotate_subcategory:162 - comment_id=591 is not annotated.
+2024-03-06 19:53:42.735 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=2928 is not annotated.
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=6258 is not annotated.
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=8469 is not annotated.
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=9362 is not annotated.
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=10362 is not annotated.
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.736 | ERROR    | __main__:annotate_subcategory:162 - comment_id=10986 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=11004 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=13200 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=13446 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=19904 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=21110 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:162 - comment_id=30363 is not annotated.
+2024-03-06 19:53:42.737 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=31889 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=37404 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=39486 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=44760 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=44833 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=45967 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:162 - comment_id=58545 is not annotated.
+2024-03-06 19:53:42.738 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:162 - comment_id=59327 is not annotated.
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:162 - comment_id=64337 is not annotated.
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:162 - comment_id=66648 is not annotated.
+2024-03-06 19:53:42.739 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.740 | ERROR    | __main__:annotate_subcategory:162 - comment_id=68619 is not annotated.
+2024-03-06 19:53:42.740 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.740 | ERROR    | __main__:annotate_subcategory:162 - comment_id=70426 is not annotated.
+2024-03-06 19:53:42.740 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.740 | ERROR    | __main__:annotate_subcategory:162 - comment_id=71664 is not annotated.
+2024-03-06 19:53:42.742 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.742 | ERROR    | __main__:annotate_subcategory:162 - comment_id=72552 is not annotated.
+2024-03-06 19:53:42.742 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.742 | ERROR    | __main__:annotate_subcategory:162 - comment_id=78692 is not annotated.
+2024-03-06 19:53:42.743 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.744 | ERROR    | __main__:annotate_subcategory:162 - comment_id=79777 is not annotated.
+2024-03-06 19:53:42.744 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.744 | ERROR    | __main__:annotate_subcategory:162 - comment_id=84855 is not annotated.
+2024-03-06 19:53:42.744 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.744 | ERROR    | __main__:annotate_subcategory:162 - comment_id=91352 is not annotated.
+2024-03-06 19:53:42.746 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.747 | ERROR    | __main__:annotate_subcategory:162 - comment_id=96357 is not annotated.
+2024-03-06 19:53:42.747 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.747 | ERROR    | __main__:annotate_subcategory:162 - comment_id=96517 is not annotated.
+2024-03-06 19:53:42.748 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.748 | ERROR    | __main__:annotate_subcategory:162 - comment_id=98556 is not annotated.
+2024-03-06 19:53:42.748 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.748 | ERROR    | __main__:annotate_subcategory:162 - comment_id=100962 is not annotated.
+2024-03-06 19:53:42.748 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.749 | ERROR    | __main__:annotate_subcategory:162 - comment_id=101337 is not annotated.
+2024-03-06 19:53:42.749 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.750 | ERROR    | __main__:annotate_subcategory:162 - comment_id=103293 is not annotated.
+2024-03-06 19:53:42.750 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.750 | ERROR    | __main__:annotate_subcategory:162 - comment_id=104256 is not annotated.
+2024-03-06 19:53:42.750 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.751 | ERROR    | __main__:annotate_subcategory:162 - comment_id=105381 is not annotated.
+2024-03-06 19:53:42.751 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.751 | ERROR    | __main__:annotate_subcategory:162 - comment_id=108566 is not annotated.
+2024-03-06 19:53:42.751 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.751 | ERROR    | __main__:annotate_subcategory:162 - comment_id=108615 is not annotated.
+2024-03-06 19:53:42.753 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.753 | ERROR    | __main__:annotate_subcategory:162 - comment_id=109326 is not annotated.
+2024-03-06 19:53:42.753 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.753 | ERROR    | __main__:annotate_subcategory:162 - comment_id=112092 is not annotated.
+2024-03-06 19:53:42.753 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.754 | ERROR    | __main__:annotate_subcategory:162 - comment_id=112597 is not annotated.
+2024-03-06 19:53:42.754 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.754 | ERROR    | __main__:annotate_subcategory:162 - comment_id=113636 is not annotated.
+2024-03-06 19:53:42.754 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.754 | ERROR    | __main__:annotate_subcategory:162 - comment_id=116545 is not annotated.
+2024-03-06 19:53:42.759 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:162 - comment_id=116610 is not annotated.
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:162 - comment_id=117974 is not annotated.
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:162 - comment_id=117982 is not annotated.
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:162 - comment_id=117983 is not annotated.
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.760 | ERROR    | __main__:annotate_subcategory:162 - comment_id=118132 is not annotated.
+2024-03-06 19:53:42.761 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.761 | ERROR    | __main__:annotate_subcategory:162 - comment_id=120294 is not annotated.
+2024-03-06 19:53:42.761 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.761 | ERROR    | __main__:annotate_subcategory:162 - comment_id=121200 is not annotated.
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:162 - comment_id=122752 is not annotated.
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:162 - comment_id=127226 is not annotated.
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.762 | ERROR    | __main__:annotate_subcategory:162 - comment_id=130417 is not annotated.
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:162 - comment_id=135069 is not annotated.
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:162 - comment_id=146143 is not annotated.
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:162 - comment_id=148032 is not annotated.
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:162 - comment_id=175203 is not annotated.
+2024-03-06 19:53:42.763 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:162 - comment_id=182770 is not annotated.
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:162 - comment_id=183047 is not annotated.
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:162 - comment_id=187746 is not annotated.
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.764 | ERROR    | __main__:annotate_subcategory:162 - comment_id=191315 is not annotated.
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:162 - comment_id=196167 is not annotated.
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:162 - comment_id=201050 is not annotated.
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:162 - comment_id=201682 is not annotated.
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.765 | ERROR    | __main__:annotate_subcategory:162 - comment_id=202006 is not annotated.
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:162 - comment_id=203038 is not annotated.
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:162 - comment_id=208566 is not annotated.
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:162 - comment_id=210477 is not annotated.
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.766 | ERROR    | __main__:annotate_subcategory:162 - comment_id=212648 is not annotated.
+2024-03-06 19:53:42.767 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.767 | ERROR    | __main__:annotate_subcategory:162 - comment_id=213077 is not annotated.
+2024-03-06 19:53:42.767 | ERROR    | __main__:annotate_subcategory:163 - main.<locals>.annotate_category_binary() takes 1 positional argument but 3 were given
+2024-03-06 19:53:42.772 | INFO     | __main__:main:183 - Done subcategory classification. Saved to /Users/heste/workspace/sn-script/database/20240306_subcategory_llm_annotation.csv

@@ -1,0 +1,14 @@
+2024-03-06 20:17:39.659 | INFO     | __main__:evaluate_subcategory:303 - 0.0
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 1.1
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 1.4
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 1.5
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 1.8
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 2.1
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 2.3
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 2.4
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 2.5
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - 3.3
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:310 - accuracy
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - macro avg
+2024-03-06 20:17:39.660 | INFO     | __main__:evaluate_subcategory:303 - weighted avg
+2024-03-06 20:17:39.661 | INFO     | __main__:evaluate_subcategory:311 - Done evaluation
