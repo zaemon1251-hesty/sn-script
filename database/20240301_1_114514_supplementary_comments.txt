@@ -3,28 +3,28 @@
 - game => europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF
 - previous comments => Manfredi Maria dépossédé du ballon. Bonne intervention de Van Der Wiel.
 - comment => Quelques imprécisions de part et d'autre pour l'instant.
-- output: [{"key-phrases": ["Quelques imprécisions de part"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
+- output: [{"clues": ["Quelques imprécisions de part"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
 
 
 - id => 100778
 - game => germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg
 - previous comments => Das ist ein guter Treffer. Maxi Ahnoldt.
 - comment => Er ist einer der besten Nachwuchsmittelfeldspieler der Bundesliga.
-- output: [{"key-phrases": ["besten Nachwuchsmittelfeldspieler der Bundesliga"], "reason": "選手に関する一般的な印象", "category": 1.8}]
+- output: [{"clues": ["besten Nachwuchsmittelfeldspieler der Bundesliga"], "reason": "選手に関する一般的な印象", "category": 1.8}]
 
 
 - id => 138268
 - game => italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna
 - previous comments => А его соотечественник Эмиль Крафт. Он привлекался в молодежную сборную Швеции.
 - comment => Но не играл на Евро.
-- output: [{"key-phrases": ["не играл на Евро"], "reason": "過去のコンペティションにおける選手の選出情報", "category": 1.4}]
+- output: [{"clues": ["не играл на Евро"], "reason": "過去のコンペティションにおける選手の選出情報", "category": 1.4}]
 
 
 - id => 28953
 - game => england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester
 - previous comments => This is Victor Moses. Now Kante.
 - comment => The plan you would imagine for Leicester is to defend in this manner and try and hit Chelsea on the counter with that tremendous pace they've got.
-- output: [{"key-phrases": ["The plan", "for Leicester", "defend in this manner", "tremendous pace they've got"], "reason": "解説者による試合展開の予想", "category": 3.1}]
+- output: [{"clues": ["The plan", "for Leicester", "defend in this manner", "tremendous pace they've got"], "reason": "解説者による試合展開の予想", "category": 3.1}]
 
 
 - id => 51787
@@ -38,35 +38,35 @@
 - game => europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto
 - previous comments => Es el primer gol. El primer gol de Tello.
 - comment => Esta temporada en la Liga de Campeones.
-- output: [{"key-phrases": ["Esta temporada", "en la Liga de Campeones"], "reason": "選手の現在の試合までのスタッツ集計", "category": 1.5}]
+- output: [{"clues": ["Esta temporada", "en la Liga de Campeones"], "reason": "選手の現在の試合までのスタッツ集計", "category": 1.5}]
 
 
 - id => 58354
 - game => europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich
 - previous comments => That's something he knows, he likes a shot, he'll shoot from anywhere, doesn't need a minute, and there's the pressure put on again. Just stepped over the line of the law there, the Algerian Brahimi, which he came close to picking the pockets of Rafinha.
 - comment => If Brahimi on one side and Cherezma on the other are working that hard, it's gonna be really difficult for either of the full-backs to bomb on, certainly Rafinha likes to do that, maybe more so than Bernat down the other side.
-- output: [{"key-phrases": ["If", "it's gonna be really difficult for either of the full-backs"], "reason": "解説者による試合展開の想定", "category": 3.1}]
+- output: [{"clues": ["If", "it's gonna be really difficult for either of the full-backs"], "reason": "解説者による試合展開の想定", "category": 3.1}]
 
 
 - id => 203795
 - game => spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona
 - previous comments => Va a buscar la entrada de Raquetich. Demasiado largo ese envío a las manos de Ochoa.
 - comment => Esos envíos tan alomésis que está haciendo Neymar no le están saliendo bien.
-- output: [{"key-phrases": ["está haciendo Neymar", "no le están saliendo bien"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
+- output: [{"clues": ["está haciendo Neymar", "no le están saliendo bien"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
 
 
 - id => 72432
 - game => europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City
 - previous comments => And Sevilla have halved their deficit! Fantastic skill from Koke, I think, on that right side.
 - comment => You know, again... Kolarov just switched off and Otamendi can't dive in there, but the presence of mind to think it to the far post... Where Tremolinos is unmarked.
-- output: [{"key-phrases": ["Kolarov just switched off", "Otamendi can't dive in there", "Tremolinos is unmarked"], "reason": "解説者による試合の状況の原因の分析", "category": 3.1}]
+- output: [{"clues": ["Kolarov just switched off", "Otamendi can't dive in there", "Tremolinos is unmarked"], "reason": "解説者による試合の状況の原因の分析", "category": 3.1}]
 
 
 - id => 124555
 - game => italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli
 - previous comments => Ждали Алана, не ждали Зелинского. Ну и выбор был Инсиния или Дрис Мертенс.
 - comment => Мертенс очень неплохо сыграл против Милана, но все-таки решил Сарри, что надо дать шанс Инсинию.
-- output: [{"key-phrases": ["Мертенс очень неплохо сыграл против Милана"], "reason": "過去の試合における選手の様子", "category": 1.4}]
+- output: [{"clues": ["Мертенс очень неплохо сыграл против Милана"], "reason": "過去の試合における選手の様子", "category": 1.4}]
 
 
 - id => 191533
