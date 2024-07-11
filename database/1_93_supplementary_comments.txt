@@ -1,0 +1,599 @@
+
+id => 59502
+previous comments => And Boateng. Trying to get Bernat forward from full-back, and Götze on the end of that pass.
+start gap (seconds) from previous => 7
+comment => He's got that in his arsenal, Boateng, either left or right, pinging it out to the wide areas, normally looking for the likes of Robben or Ribéry.
+
+
+id => 105106
+previous comments => Mit Raum, mit Platz vorbei an Verenia. Gestoppt von Arnold, der sich da gelb abholt.
+start gap (seconds) from previous => 3
+comment => Hat noch kein Tor erzielt Dembélé, aber das ist ein fantastisches Talent.
+
+
+id => 17942
+previous comments => It's been all change at the back for Chelsea. It may well have suited the centre-back, certainly Ivanovic as we spoke about earlier.
+start gap (seconds) from previous => 4
+comment => Gary Cahill, probably England's number one choice.
+
+
+id => 36626
+previous comments => Mane so close to his eighth of the season. He's Liverpool's top scorer.
+start gap (seconds) from previous => 0
+comment => Who they will be without of course for January at the Africa Cup of Nations with Senegal.
+
+
+id => 5626
+previous comments => That's out Okay Well Then I think there's a little bit of butt passing there from chelsea. It's ended up with gary kay or center back having the The shot and you'd be quite happy for that if your center backs are having shots from 30 yards But william fabregas costa they all passed up the opportunity Ended up with gary kay or taking the strike Foreign Chelsea secured the championship with a win here against crystal palace at the start of may Fourth premier league title with three games remaining They've been top of the table since the end of august Foreign Fabregas You can get fabregas this lip Foreign How's that William Foreign That's a better from william getting to the dead ball line going past It's a high on that far side just showing it and then going around him corner to chelsea, but I haven't really had that sustained battle pressure that you normally see at the bridge when teams come down here William That was on target Foreign William Foreign A great closing down from palace and well defended gary kay or against wickham there good ball Diego costa Can't get suare out of the way Just the first time we've seen fabregas get his head up and trying it Diego costa on the angle where he just cuts across the ball and peels off The far player in this case the fullback suare, but he defended it.
+start gap (seconds) from previous => 234
+comment => Well Palace, you can see immediately that ball went backwards.
+
+
+id => 61390
+previous comments => In their last 32 home games in the Champions League, Barcelona have only been beaten once. But, of course, it was by Bayern.
+start gap (seconds) from previous => 4
+comment => Only two years ago.
+
+
+id => 35343
+previous comments => Really quick. The speed of it running backwards was amazing.
+start gap (seconds) from previous => 3
+comment => But still, when it hits Michael Oliver, it's on the edge of the Leicester box.
+
+
+id => 1602
+previous comments => Sterling chases. Had it from Yoshida.
+start gap (seconds) from previous => 2
+comment => Targeted Lallana, getting involved in a few isolated boos for Adam Lallana there.
+
+
+id => 119105
+previous comments => 24 años ya tiene el jugador. Ya decía de la Roma.
+start gap (seconds) from previous => 4
+comment => Ha pasado ya por varios equipos en Italia.
+
+
+id => 196409
+previous comments => Prolonga el despeje Dani Ceballos, insiste el Barça con Neymar. Balón tocado de Neymar, ese balón tiene que ser, ese balón es para Antonio Adán.
+start gap (seconds) from previous => 5
+comment => Pero bien hechas en este caso las vigilancias del Barcelona, saben que tienen que estar muy atentos, sobre todo a la posición de Ruben Castro, que es muy inteligente, lateraliza mucho su posición, con lo cual hace perder de vista a los centrales o intenta separar con esa posición a los centrales.
+
+
+id => 10645
+previous comments => CHEERING We've heard a lot of stories coming out of Chelsea this week, about positive meetings, the training's been good, the performance is improving. You wondered what would happen on the pitch, well, what's happened early is Chelsea have gone ahead and been on top.
+start gap (seconds) from previous => 8
+comment => What's been so surprising to me are the number of goals Chelsea have conceded, 19 goals this season in the Premier League, that's quite remarkable when Jose Mourinho works so hard on defending.
+
+
+id => 163425
+previous comments => Pues desde aquí la perspectiva me impedía precisar sobre quién eran las indicaciones que estaba. No era con Garitano, era directamente con alguien del banquillo, a Garitano le tenía penas a un par de metros.
+start gap (seconds) from previous => 5
+comment => Varane, Arbeloa, un buen centro de Arbeloa, un gran remate de Chicharito han servido para que el Real Madrid lograra el segundo tanto.
+
+
+id => 131167
+previous comments => Ну, понятно, приехал из Алжира. 25 лет.
+start gap (seconds) from previous => 0
+comment => Семь матчей провёл.
+
+
+id => 2915
+previous comments => Es muy arriesgado hacer eso. Puedes cometer un error que ha estado a punto de costarle caro al equipo.
+start gap (seconds) from previous => 2
+comment => La verdad, lo ha comentado mucho Van Gaal.
+
+
+id => 188976
+previous comments => Sidney, tocando atrás ante la presión de Busquets, se la quita de encima por Otolux, mete la cabeza Matié, hace lo propio Neymar, la revienta al Ventosa, intenta bajarla Mascherano, quién se la queda, toca de cabeza Piqué, la pelota que aún no toca, el suelo, mal control de Mosquera, la recuperación del FC Barcelona, este es Busquets. Saliendo por la derecha con Arda Turan.
+start gap (seconds) from previous => 5
+comment => Esta forma de jugar obliga mucho, sobre todo a los jugadores que juegan dentro, cuando vas a robar el balón, a abrir mucho el campo rápidamente para intentar darle amplitud, para evitar que ese espacio pequeño, como ahora se están esas disputas de balones en muy poquitos sitios, el partido se juega en muy pocos metros, necesitas más amplitud, más metros y eso lo da después del robo, el abrir el campo y buscar más amplitud.
+
+
+id => 15037
+previous comments => They won at home against Newcastle thanks to Darren Fletcher's late winner. It's he who stabs to Olsen here.
+start gap (seconds) from previous => 0
+comment => Johnny Evans won it against Stoke in injury time.
+
+
+id => 32527
+previous comments => That's Amr Abad who's holding him off and playing it against him. That's a decent ball in from James Milner, playing it left-back, predominantly right-footed, he will be able to step onto his right foot and deliver those decent balls into the box, so players like Mane can take a chance at the far post, because they know his delivery is going to be decent.
+start gap (seconds) from previous => 13
+comment => The last defeat suffered by both these teams was 2-0 against Burnley, Liverpool have been on an 11-match unbeaten run since theirs, eight of them in the Premier League.
+
+
+id => 71635
+previous comments => They got a win in Manchester last season, that's CSKA when they beat Manchester City. The man who got the two goals that night, Sadio Dumbia, is only on the bench.
+start gap (seconds) from previous => 5
+comment => It was aided significantly by the fact that Fernandinho and Yaya Touré were both sent off.
+
+
+id => 121919
+previous comments => Let's give you an idea. 14 coaches since Bellini first stepped in at Adelanto.
+start gap (seconds) from previous => 8
+comment => It might be a cauldron that produces a ton of talent in Italy but they like a different chef every so often.
+
+
+id => 106666
+previous comments => Exzellente Spielmöglichkeit. Exzellente Spielmachung von Di Santo.
+start gap (seconds) from previous => 4
+comment => Vergangene Woche beim 3-0 gegen Mainz.
+
+
+id => 179420
+previous comments => El partido que empieza a abrirse y a estas alturas de encuentro es llamativo que haya tantos espacios. Kroos.
+start gap (seconds) from previous => 3
+comment => Sí, porque el Getafe cuando llega al Real Madrid, la verdad es que los tres de arriba sobre todo, más James y nuevamente Isco, pues cuando tienen el balón no se lo piensan, van directamente para arriba.
+
+
+id => 182167
+previous comments => Esa pelota terminó en la portería de Adán. Ya gana el Barça.
+start gap (seconds) from previous => 2
+comment => Siete de la primera parte, 1-0.
+
+
+id => 208599
+previous comments => Toni Kroos, ha visto el desmarque de Marcelo, recibe el brasileño, la pone Marcelo, llegó a tocar Munir, el saque de banda. Esa es la vía por la que el Real Madrid intenta desequilibrar con más frecuencia los centros.
+start gap (seconds) from previous => 8
+comment => Así llegó el gol y están cayendo de izquierda y de derecha, porque por adentro le cuesta mucho encontrar espacio al Real Madrid.
+
+
+id => 10642
+previous comments => The flag is up, though, it wouldn't have counted. Yeah, it was just a little bit far out for Willian to have a shot, and it's Zouma that's actually offside, and he makes the action towards the ball, and that's a jump, brings him into an offside position.
+start gap (seconds) from previous => 14
+comment => Here's Coutinho, he's not been really in his best form so far this season, left out of the most recently named Brazilian squad for an upcoming game against Argentina, World Cup qualifier that too.
+
+
+id => 156677
+previous comments => И это уже не в первый раз можно увидеть. Больше получаса в игре позади.
+start gap (seconds) from previous => 3
+comment => 0-0 по-прежнему.
+
+
+id => 90250
+previous comments => Et puis forcément quand on gagne, quand on enchaîne, on a de la confiance, on a de l'envie, de l'enthousiasme. Et ça se voit dans ce début de match.
+start gap (seconds) from previous => 5
+comment => Voilà la maîtrise parisienne au milieu avec Verratti et Thiago Mota qui a été mis vraiment sous pression par le pressing nantais et notamment Valentin Rongier.
+
+
+id => 123956
+previous comments => Почему? Для Мантелло этот сезон очень и очень важен.
+start gap (seconds) from previous => 0
+comment => Потому что он должен убедить новое руководство в том, что это тот человек, под которого можно потратить 300 миллионов евро и купить игроков.
+
+
+id => 88581
+previous comments => De hacerse dueño del partido. Ha parado ya el Real Madrid de esa intención.
+start gap (seconds) from previous => 1
+comment => Y ahora tiene largas posesiones.
+
+
+id => 15602
+previous comments => So double trouble for West Ham with not only the concession of the penalty, but the injury that looks like it will end Jenkinson's involvement in the game. And Sam Byron, whom Slavon Berger has been a fan of for a long time, Sam Byron, whom Slavon Berger admitted this week when he signed him, was being bought for the future and very much with next season in mind, is being called to step up much earlier than that.
+start gap (seconds) from previous => 16
+comment => I've seen Sam Byron play a lot in the Championship, he's a very composed player, versatile as well, can play at right-back where he's gonna play here, he can play at centre-half in midfield as well.
+
+
+id => 152
+previous comments => A Obi Mikel también le veíamos con corbata porque oficialmente es el único lesionado del equipo. John Obi Mikel ahora mismo.
+start gap (seconds) from previous => 5
+comment => Un Chelsea que solo ha cedido un empate en Liga.
+
+
+id => 158047
+previous comments => Это чуть ли не первая тема для обсуждения, когда в газетах появляются какие-то заметки про Наполи. Но сегодня напомним Мертенсу свой персональный праздник.
+start gap (seconds) from previous => 4
+comment => День рождения.
+
+
+id => 64977
+previous comments => В каждый сезон 2-3 травмы обязательно бывают у Свена Бендера. И у Ларса Бендера, соответственно, тоже.
+start gap (seconds) from previous => 4
+comment => Очень больно.
+
+
+id => 136182
+previous comments => Нет Флоренции. Думали, гадали, кем заменить.
+start gap (seconds) from previous => 0
+comment => В результате Рюдегер вышел на левом фланге, а Эмерсон сыграет сегодня справа.
+
+
+id => 106339
+previous comments => Alles korrekt. Dann ist er dran, wird überhaupt nicht attackiert.
+start gap (seconds) from previous => 2
+comment => Und macht nach 5,5 Jahren mal wieder ein Bundesligator das erste für den FC Ingolstadt.
+
+
+id => 180860
+previous comments => Ahora cuando ya vemos que el bomba fuera, ya parte y solo, pero no es tan fácil el pase como que reto mamba a Bakambú. Y una vez más Keylor Nava demostrando que es portero para el Real Madrid de sobra.
+start gap (seconds) from previous => 2
+comment => Porque tiene eso que tienen los porteros de los equipos dominadores, que a veces tiene que participar, solo a veces, pero son exigentes esas ocasiones y la verdad es que Keylor Nava reacciona fenomenalmente bien ante las oportunidades que le generan los contrarios.
+
+
+id => 4480
+previous comments => We've got some problems Chelsea down that side, Gary Cahill's getting pulled out into positions that you wouldn't normally see Chelsea centre-backs. City have been the brighter.
+start gap (seconds) from previous => 4
+comment => They scored in the opening seconds.
+
+
+id => 94190
+previous comments => Il le montre même de la main. Je te promets, j'ai pas essayé de frapper.
+start gap (seconds) from previous => 2
+comment => Mais ça se voyait un petit peu.
+
+
+id => 175142
+previous comments => Kroos e Isco, Isco que ha visto venir a Pablo, metió el cuerpo y luego cambió el ritmo, Isco hacia Cristiano, devuelve la pared, Isco que busca la rosca en el disparo, Gesé probablemente estaba en mejor posición. Sí, si hubiera intentado buscar a Gesé con un control orientado prácticamente estaba dentro del área, pero muy bien el cambio de ritmo que ha hecho Isco, la combinación con Cristiano.
+start gap (seconds) from previous => 6
+comment => Bueno, yo creo que el Málaga está apretándoles arriba para que juegue el balón largo como hizo el Granada y el Real Madrid pues está controlando bien esa segunda parte del juego.
+
+
+id => 23514
+previous comments => Kershav. Bereni who scored against Chelsea at Stamford Bridge this season.
+start gap (seconds) from previous => 11
+comment => Chelsea were comfortable 3-1 winners.
+
+
+id => 199658
+previous comments => Pepe para Kroos. Kroos atrás para Lucas Modri.
+start gap (seconds) from previous => 1
+comment => La mano de Samu Castillejo.
+
+
+id => 2191
+previous comments => Pues termina rematando alto el chileno. Qué jugada el primer toque, combinaciones entre tres jugadores, entre Özil, Giroud que descarga, vamos a ver aquí, primer toque, primer toque, es casi todo el primer toque.
+start gap (seconds) from previous => 9
+comment => Otro primer toque, el único que da dos toques en la jugada es Alexis, luego verdad que le cae un rechace del defensor.
+
+
+id => 8122
+previous comments => He just goes down, throws himself to the ground. Not a penalty.
+start gap (seconds) from previous => 2
+comment => Offense.
+
+
+id => 133552
+previous comments => Пепе Рейна, 25 номер в воротах Наполи. Сотый матч за клуб он сегодня проводит.
+start gap (seconds) from previous => 4
+comment => У него сегодня юбилей.
+
+
+id => 762
+previous comments => По состоянию на текущий момент Arsenal занимает 5 место и набрал 45 очков. К этому моменту впереди только Southampton, Manchester United, Manchester City и Chelsea.
+start gap (seconds) from previous => 8
+comment => Southampton имеет 46 очков в активе.
+
+
+id => 144659
+previous comments => Лоренцо Тоннелли, вот возможность о нем побеседовать, он коснулся мяча, потому что в остальном, конечно, без напряжения играет оборона Наполе, но… Гамшек действует, обратите внимание, вот сейчас второе касание себе позволил, до этого в одно. Здесь на неделе мы досмотрим атаку, чтобы отвлечься на обстоятельства вне игровой, но вне времены, тем не менее.
+start gap (seconds) from previous => 6
+comment => Диего Марадона посетил Неаполь, приняв участие в церемонии, которая сделала его, собственно говоря, формально символом города и команды.
+
+
+id => 4380
+previous comments => And here's Cahill. Certainly there hasn't been too much about this game talked about down in the Cobham area in Surrey at the press conference with Jose Mourinho on Friday.
+start gap (seconds) from previous => 16
+comment => It was all about other matters, medical matters.
+
+
+id => 177682
+previous comments => La vuelve Cristiano. Sergio Rico.
+start gap (seconds) from previous => 2
+comment => Gran parada de Sergio Rico y gran remate de Cristiano en carrera.
+
+
+id => 184749
+previous comments => Ves? Capítulo de obstrucción.
+start gap (seconds) from previous => 1
+comment => Capítulo de falta.
+
+
+id => 24154
+previous comments => Mane-Alai not really going for it. Believe it or not, Arsene Wenger facing Liverpool for the 50th time as manager of Arsenal.
+start gap (seconds) from previous => 6
+comment => Some Premier League managers don't get 50 games in total.
+
+
+id => 18507
+previous comments => There's certainly more flow about Liverpool, though, in the early moments of this one. Yeah, definitely the better start from Liverpool, down that right-hand side in particular.
+start gap (seconds) from previous => 5
+comment => Neat passing, as soon as Origi plays out wide, he's got to get in the box, and I think Firmino was just in an offside position, even if he had latched onto it.
+
+
+id => 15430
+previous comments => Be very careful. Well they've had discipline let them down recently.
+start gap (seconds) from previous => 3
+comment => Their home defeat against Bournemouth.
+
+
+id => 43569
+previous comments => Dani immer noch. Und dann war der Portugiese als letzter dran.
+start gap (seconds) from previous => 5
+comment => Gebürtiger Brasilianer beim FC Porto wurde er eingebürgert.
+
+
+id => 21335
+previous comments => Montero, a real buzz around the stadium when he picks up possession. Miaska, will he foul him?
+start gap (seconds) from previous => 4
+comment => Yes, he did, and that'll be a yellow card for the American centre-half.
+
+
+id => 20495
+previous comments => There's no slouch, but over five yards, Aguero's so quick. Poor free kick from Yaya Toure.
+start gap (seconds) from previous => 5
+comment => City looking for their 50th derby win in all major competitions, United 170.
+
+
+id => 140362
+previous comments => На флангах играют 20-й Игнацию Аббат и 2-й Матия Дешили. Ну, кстати, по левому флангу, по флангу Матия Дешили пришла эта атака.
+start gap (seconds) from previous => 9
+comment => В полузащите 73-й номер Мануэль Локотелли, 80-й Марио Пашелевич.
+
+
+id => 71343
+previous comments => Benfica, Connors. İlk yarına son dakika.
+start gap (seconds) from previous => 2
+comment => Tansiyonu yükseldiği anlar yaşanıyor Luizão ile.
+
+
+id => 158691
+previous comments => И вот, как всегда, Эдин Джеко не успевает выиграть. Но настолько ему не хватает стабильности, что порой выпадает из игры.
+start gap (seconds) from previous => 5
+comment => Да, Милан останется на шестом месте даже в случае, если сегодня проиграет.
+
+
+id => 69539
+previous comments => Ils avaient pourtant été avertis les Lyonnais. Et cette fois c'est sur le poteau d'Anthony Lopez.
+start gap (seconds) from previous => 3
+comment => Deux fois les mêmes pour deux fois quasiment un but.
+
+
+id => 98144
+previous comments => Drückt sich auch im Torschussverhältnis aus. Bislang aktuell Dortmund mit 4, bei Hertha steht dann noch die 0.
+start gap (seconds) from previous => 11
+comment => Da ist der Armenia gegen Langkamp gestoppt.
+
+
+id => 67266
+previous comments => Raczej ją wprowadza. A teraz proszę długi przerzut.
+start gap (seconds) from previous => 0
+comment => Niecelny, choć Olympiacos cały czas przy piłce.
+
+
+id => 49809
+previous comments => Once he gets across the halfway line and he makes his decision, he really wants to drive into the box. He's extremely dangerous.
+start gap (seconds) from previous => 4
+comment => He was reportedly nursing an injury which made him a doubt for tonight.
+
+
+id => 201671
+previous comments => Es fuera de juego, lo señala el juez de línea. En el momento en el que Cristiano remataba se queja el futbolista portugués que había visto entrar la pelota para convertirse en el 0 a 1.
+start gap (seconds) from previous => 2
+comment => Pero no lo dudó el asistente, la jugada no valía, el gol no sube el marcador.
+
+
+id => 35779
+previous comments => It was extraordinary what happened down at Bournemouth. It's only the second time in Liverpool's Premier League history that they've thrown away a 2-0 half-time lead.
+start gap (seconds) from previous => 7
+comment => Both times have been this year, and both times on the south coast, it was Southampton at the back end of last season, and Bournemouth a week ago.
+
+
+id => 82126
+previous comments => Тут же забирают неблетанцы мяч себе и вперед на Милика. Милик принимает мяч в тротной.
+start gap (seconds) from previous => 7
+comment => Аркадьев Милик первый удар поворотом на 17 секунде нанесен.
+
+
+id => 82455
+previous comments => Николай Максимович, кстати, добавил рост. Метр 93.
+start gap (seconds) from previous => 0
+comment => Он в высоту и с ним, может быть, даже лучше в этом смысле, чем с Рауним Эльбиолем.
+
+
+id => 11182
+previous comments => Combina Smolin con Michael Carrick. Martial protege, suelta el balón bien para Marcos Rojo.
+start gap (seconds) from previous => 4
+comment => Llega Alíngar, el que aparece en escena, posesión larguísima, posesión prácticamente interminable desde que comenzó el partido.
+
+
+id => 189182
+previous comments => Veremos en el descanso si hay alguna modificación en el Deportivo. Pero ha estado mucho tiempo calentando arriba por el golpe que se ha llevado su compañero en esa acción con Luis Suárez.
+start gap (seconds) from previous => 4
+comment => Un jugador que por cierto, aunque fuera de forma más o menos vaga, acabó sonando en ciertas informaciones periodísticas para incorporarse al FC Barcelona este pasado verano.
+
+
+id => 170201
+previous comments => Puede disparar. La toca a la frontal.
+start gap (seconds) from previous => 0
+comment => Ahí va el disparo de Messi.
+
+
+id => 202765
+previous comments => Se la saque de banda para Danilo. Algún detalle, José, que nos llega de modo de información sobre la situación de Varane.
+start gap (seconds) from previous => 5
+comment => Molestias en el muslo izquierdo.
+
+
+id => 43167
+previous comments => He's just taking too many touches, slowing the game down, which allows Watford to get back into the shape. Questions about the future of the Watford head coach, Walter Mazzarri.
+start gap (seconds) from previous => 11
+comment => There's been one or two stories this week suggesting that Leicester might struggle to hold on to Riyad Mahrez and also Schmeichel and Gray.
+
+
+id => 165303
+previous comments => I'm hoping Luis Enrique gets the credit he deserves and I bang on about it quite a bit but... The way this Barca side has been pressing of late against PSG today, they just look that much better than last year.
+start gap (seconds) from previous => 7
+comment => The thing is, last season and the season before you got the impression in the last two or three months for example 2013 Barca played Bayern in the last 7-0 in aggregate got the impression of a side running on empty even though they ended up winning the league.
+
+
+id => 112332
+previous comments => Also die Frankfurter Hintermannschaft unheimlich erratisch unterwegs. In diesen ersten 18,5 Minuten hier nochmal die Aktion von Shinji Kagawa, der dann letztendlich an Radetzky scheitert, weil sie nicht wach genug sind und eben auf diesen zweiten Ball nicht drauf gehen, die Frankfurter.
+start gap (seconds) from previous => 26
+comment => Freddy Bobic hat ja drei Jahre für den BVB gespielt, besser gesagt zweieinhalb.
+
+
+id => 148884
+previous comments => Насколько я помню. Возвращаясь к моменту с голом, все-таки дотянулся до мяча Джо Харт.
+start gap (seconds) from previous => 3
+comment => Но вот этот отскок от газона, он еще дополнительное ускорение придал.
+
+
+id => 57640
+previous comments => Carlos Tevez. You can't give him that shooting space outside the area.
+start gap (seconds) from previous => 1
+comment => Good stop.
+
+
+id => 34331
+previous comments => Sloppy start by Liverpool so far. Not playing with their usual zip.
+start gap (seconds) from previous => 3
+comment => And we've seen them being a little bit fragile at set pieces this season.
+
+
+id => 42316
+previous comments => Okay, he's got a Premier League winner's medal in the bag and England international, but still, I think he could go to a higher placed team than this one. And he wouldn't be out of place.
+start gap (seconds) from previous => 3
+comment => He took the big decision to leave Manchester United because there are so many top quality midfielders in the queue ahead of him at Old Trafford.
+
+
+id => 160555
+previous comments => По сути, моментов не было. Да, удар, после которого Рейна свою команду спас, был.
+start gap (seconds) from previous => 5
+comment => Но в остальном моментов пока что у Фиорентины нет.
+
+
+id => 90057
+previous comments => Berati turning into trouble. It's intense at the moment but the final ball lacking as we saw there with Florian Thauvin.
+start gap (seconds) from previous => 2
+comment => Marseille yet to create a genuine chance.
+
+
+id => 60532
+previous comments => The same during his spell as coach at Milan. They weren't keen on him when he first arrived were they?
+start gap (seconds) from previous => 5
+comment => No he was a very unpopular successor to Antonio Conte.
+
+
+id => 8963
+previous comments => En revanche, il faudra surveiller au deuxième poteau parce que ça va plonger évidemment vers Tchek. Olbrighton et Morgane !
+start gap (seconds) from previous => 4
+comment => C'était exactement ça au deuxième poteau.
+
+
+id => 97244
+previous comments => En el Augsburgo, Hitz es el portero. Berag, lateral derecho, el coreano Hong junto a Klavan en el centro de la zaga con Babá a la izquierda.
+start gap (seconds) from previous => 7
+comment => Centro del campo para Kohl, Bayern y Altingdorf con Feulner y Svain en las bandas.
+
+
+id => 156781
+previous comments => Пескара была оштрафована штрафным ударом. Ну вот сейчас еще один штрафной.
+start gap (seconds) from previous => 7
+comment => Мунтари, по-моему, получает вторую желтую карточку в этом матче.
+
+
+id => 103009
+previous comments => Es ist eine Schwäche. Im Schnitt ist es so, dass die Bayern pro Partie zwei Torschüsse zulassen.
+start gap (seconds) from previous => 20
+comment => Neuer ist gefordert.
+
+
+id => 79826
+previous comments => Et l'autre joueur dans son registre. Vous pouvez prendre Zidane.
+start gap (seconds) from previous => 1
+comment => Qui n'avait pas très très beau moment de but.
+
+
+id => 39051
+previous comments => Gullopoci, I think the player who was flagged off. Yeah, second time he's been well offside for me.
+start gap (seconds) from previous => 3
+comment => Just dipping in, you can see another clear one.
+
+
+id => 64328
+previous comments => Barca trying as usual to pass Roma to death. 70% to 30% possession.
+start gap (seconds) from previous => 5
+comment => 1-1 on goals.
+
+
+id => 24361
+previous comments => Sam Boatsey. Not often we see that.
+start gap (seconds) from previous => 1
+comment => Andre Gray passing to Boatse and Boatse scoring.
+
+
+id => 52121
+previous comments => Pellegrini's got some work to do at half-time. Hopefully they get to half-time at 2-0.
+start gap (seconds) from previous => 3
+comment => Because the way it's going, Barcelona are completely dominating possession like we thought they would.
+
+
+id => 99716
+previous comments => Ganz stark. Der zuletzt beim 0-1 gegen Ingolstadt beim Gegentor nicht gut aussah.
+start gap (seconds) from previous => 3
+comment => Vertrag verlängert bis 2019.
+
+
+id => 145152
+previous comments => У мяча Даниэль Дероси. Восьмая минута матча.
+start gap (seconds) from previous => 2
+comment => Рома Калири пока 0-0.
+
+
+id => 63373
+previous comments => Pelota que juega en la frontal del área, viene Piatov, el balcón, desde ahí sale ahora el meta ucraniano, la pone arriba, larga, buscando la espalda de Ramos, va a saltar, mete la cabeza a Ramos, cayó Ramos, recupera Marcelo. Marcelo contra Marlos, la juega arriba, el balón dividido lo quiere cazar Cristiano, pero se lo va a llevar Fred, recupera Shakhtar.
+start gap (seconds) from previous => 12
+comment => No es fácil quitarle la pelota al Shakhtar, es más fácil apretarles arriba y quizás quitarle el balón a los centrales, a los defensas en inicio de juego, que a los jugadores de arriba, porque todos tienen un porcentaje muy alto de acierto en el pase, toman buenas decisiones.
+
+
+id => 77954
+previous comments => A member of the team that won the Bundesliga and has competed in the Champions League. The likes of Edin Dzeko and Graffiti.
+start gap (seconds) from previous => 4
+comment => They finished third in their group under Armin Vey.
+
+
+id => 9061
+previous comments => Руди Жестет забил в втором тайме. И в общем, вот он сейчас на ваших экранах.
+start gap (seconds) from previous => 2
+comment => Стал героем Астанвиллы в этот вечер.
+
+
+id => 54935
+previous comments => And it is a corner off Götze. Shakhtar looking to make something happen here.
+start gap (seconds) from previous => 17
+comment => They have got another corner as Luis Adriano challenged.
+
+
+id => 11236
+previous comments => Sí impresiona ese 86%, por supuesto. Pero lo importante es crear ocasiones.
+start gap (seconds) from previous => 3
+comment => Son dos equipos que crean muy pocas ocasiones.
+
+
+id => 115358
+previous comments => He's been able to produce the results that we saw last term. The idea was to spring on the counter-attack, get the players in behind, opposing the team's back-forward.
+start gap (seconds) from previous => 14
+comment => The opponent has been sitting deep, letting Roma keep possession, so the run-out of ideas has worked.
+
+
+id => 124723
+previous comments => В воротах Арестис Карнезис. Это в свою очередь тот человек, который в составе сборной Греции провел также матч отборочного цикла.
+start gap (seconds) from previous => 7
+comment => Греки играли на выезде против Гибралтара.
+
+
+id => 206584
+previous comments => Viene con la pelota Karim Benzema para jugar en corto sobre la posición de Marcelo. Marcelo que encara.
+start gap (seconds) from previous => 4
+comment => Recorta el primero.
+
+
+id => 171683
+previous comments => Se recupera sin problemas Arbeloa justo antes del lanzamiento de penalti por parte de Cristiano Ronaldo Pepe se acercó hasta la zona de banquillos con molestias a la altura del glúteo izquierdo ese puede ser el motivo por el cual Rafael Varane ya lleve calentando desde hace unos minutos. Precaución por parte del Real Madrid Pepe reflejando molestias y Varane que hoy no ha sido titular como opción de recambio se equivoca Javier Hernández le esperaba para robar Freddy Nestroza Diego Castro Nestroza, Nestroza muy rápido jugando con Escudero que se suma bien al ataque el centro de Escudero pues le faltó una zancada para llegar a zona de remate a Pablo Sarabia el Getafe está desplegándose en ataque con mucha gente el Getafe va a hacer un partido bueno interesante posiblemente van a terminar bien porque es una motivación jugar en el Bernabéu y tiene grandes jugadores si el Madrid sin balón no se aplica pues al final el Getafe se encuentra cómodo puede correr tiene jugadores para poder combinar el saque de portería de Iker Casillas que volvió a transformarse en un acontecimiento en el que se mezclaban reacciones encontradas corta Naldo no llega Pedro León, Kroos, Nacho Toni Kroos, Illarra, Mendy, Cristiano Ronaldo salió a buscarle Naldo la pelota de Illarra Marcelo llega solo Marcelo en el área Marcelo que centra Vigaray corta de momento otra vez Marcelo ahora con la diestra una pelota peligrosa se preparaba para la chilena Cristiano deja para Chicharito rebota en Naldo y al final el alivio para el Getafe se lo da Juan Rodríguez Marcelo, James y Marcelo pensando en salida se encuentra el túnel que balón para Gesege se atrás recibe Cristiano, Cristiano arbeló hacia hacer un lío y de todo esto Inestroza sale favorecido contra del Getafe que pase de Marcelo con un túnel incluido dejando solo al compañero Pablo Sarabia, Pepe rebaña la pelota y creo que termina de romperse Roberto.
+start gap (seconds) from previous => 126
+comment => En la anterior ocasión como os indicaba cuando fue el penalti de Cristiano Ronaldo ya se acercó a la zona de banquillos a que le mirasen los médicos tenía lo dicho molestias a la altura del glúteo izquierdo más que el glúteo ya lo vemos como es un poquito la zona más baja ya la zona del muslo así que el Real Madrid probablemente se ha obligado a realizar el cambio de hecho ya estaban incluso listo y dispuesto se ha quitado el peto va a realizar el cambio el Real Madrid Pepe que ha hecho el último servicio al imperio blanco como indice cortando esta jugada en la cual ha terminado de romperse el central.
+
+
+id => 29458
+previous comments => They're concerned about maybe the number of challenges going in, he could have let Manchester United play on there. Herrera.
+start gap (seconds) from previous => 6
+comment => That's the best goal for Ibrahimovic, and there's another tackle, and Liverpool are clearly out to make fire with fire.
