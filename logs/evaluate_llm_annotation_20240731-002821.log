@@ -1,0 +1,15 @@
+2024-07-31 00:28:21.483 | INFO     | __main__:evaluate_subcategory:292 - model_type='gpt-3.5-turbo-1106'
+2024-07-31 00:28:21.484 | INFO     | __main__:evaluate_subcategory:293 - random_seed=10
+2024-07-31 00:28:21.484 | INFO     | __main__:evaluate_subcategory:294 - half_number=1
+2024-07-31 00:28:21.488 | INFO     | __main__:evaluate_subcategory:306 - {'YES', 'NO'}
+2024-07-31 00:28:21.488 | INFO     | __main__:evaluate_subcategory:307 - {'YES', 'NO'}
+2024-07-31 00:28:21.488 | INFO     | __main__:evaluate_subcategory:311 - Accuracy: 0.76
+2024-07-31 00:28:21.492 | INFO     | __main__:evaluate_subcategory:326 - key, precision, recall, f1-score, support
+2024-07-31 00:28:21.492 | INFO     | __main__:evaluate_subcategory:329 - NO, 0.4, 0.4, 0.4000000000000001, 10.0
+2024-07-31 00:28:21.492 | INFO     | __main__:evaluate_subcategory:329 - YES, 0.85, 0.85, 0.85, 40.0
+2024-07-31 00:28:21.492 | INFO     | __main__:evaluate_subcategory:333 - accuracy
+2024-07-31 00:28:21.493 | INFO     | __main__:evaluate_subcategory:329 - macro avg, 0.625, 0.625, 0.625, 50.0
+2024-07-31 00:28:21.493 | INFO     | __main__:evaluate_subcategory:329 - weighted avg, 0.76, 0.76, 0.76, 50.0
+2024-07-31 00:28:21.493 | INFO     | __main__:evaluate_subcategory:335 - False Positive list:[79777, 103293, 117974, 117982, 187746, 213077]
+2024-07-31 00:28:21.493 | INFO     | __main__:evaluate_subcategory:336 - False Negative list:[78692, 96357, 108615, 113636, 122752, 182770]
+2024-07-31 00:28:21.493 | INFO     | __main__:evaluate_subcategory:338 - Done evaluation

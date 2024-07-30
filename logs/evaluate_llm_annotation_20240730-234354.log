@@ -1,0 +1,12 @@
+2024-07-30 23:43:54.545 | INFO     | __main__:evaluate_subcategory:302 - {'YES', 'NO'}
+2024-07-30 23:43:54.546 | INFO     | __main__:evaluate_subcategory:303 - {'YES', 'NO'}
+2024-07-30 23:43:54.547 | INFO     | __main__:evaluate_subcategory:307 - Accuracy: 0.76
+2024-07-30 23:43:54.551 | INFO     | __main__:evaluate_subcategory:322 - key, precision, recall, f1-score, support
+2024-07-30 23:43:54.551 | INFO     | __main__:evaluate_subcategory:325 - NO, 0.4, 0.4, 0.4000000000000001, 10.0
+2024-07-30 23:43:54.551 | INFO     | __main__:evaluate_subcategory:325 - YES, 0.85, 0.85, 0.85, 40.0
+2024-07-30 23:43:54.551 | INFO     | __main__:evaluate_subcategory:329 - accuracy
+2024-07-30 23:43:54.552 | INFO     | __main__:evaluate_subcategory:325 - macro avg, 0.625, 0.625, 0.625, 50.0
+2024-07-30 23:43:54.552 | INFO     | __main__:evaluate_subcategory:325 - weighted avg, 0.76, 0.76, 0.76, 50.0
+2024-07-30 23:43:54.552 | INFO     | __main__:evaluate_subcategory:331 - False Positive list:[]
+2024-07-30 23:43:54.552 | INFO     | __main__:evaluate_subcategory:332 - False Negative list:[]
+2024-07-30 23:43:54.552 | INFO     | __main__:evaluate_subcategory:334 - Done evaluation

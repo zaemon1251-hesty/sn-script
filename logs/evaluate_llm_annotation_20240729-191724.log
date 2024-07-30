@@ -1,0 +1,11 @@
+2024-07-29 19:17:24.797 | INFO     | __main__:evaluate_subcategory:302 - {'Irrelevant', 'Relevant'}
+2024-07-29 19:17:24.797 | INFO     | __main__:evaluate_subcategory:303 - {'Irrelevant', 'Relevant'}
+2024-07-29 19:17:24.801 | INFO     | __main__:evaluate_subcategory:318 - key, precision, recall, f1-score, support
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:321 - Irrelevant, 0.5, 0.38461538461538464, 0.4347826086956522, 13.0
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:321 - Relevant, 0.8, 0.8648648648648649, 0.8311688311688312, 37.0
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:325 - accuracy
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:321 - macro avg, 0.65, 0.6247401247401247, 0.6329757199322417, 50.0
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:321 - weighted avg, 0.722, 0.74, 0.7281084133258047, 50.0
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:327 - False Positive list:[79777, 84855, 103293, 117974, 117982, 187746, 191315, 213077]
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:328 - False Negative list:[96357, 108615, 113636, 122752, 182770]
+2024-07-29 19:17:24.802 | INFO     | __main__:evaluate_subcategory:330 - Done evaluation
