@@ -1,0 +1,609 @@
+
+- id => 62357
+- game => europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF
+- previous comments => Manfredi Maria dépossédé du ballon. Bonne intervention de Van Der Wiel.
+- comment => Quelques imprécisions de part et d'autre pour l'instant.
+- output: [{"clues": ["Quelques imprécisions de part"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
+
+
+- id => 100778
+- game => germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg
+- previous comments => Das ist ein guter Treffer. Maxi Ahnoldt.
+- comment => Er ist einer der besten Nachwuchsmittelfeldspieler der Bundesliga.
+- output: [{"clues": ["besten Nachwuchsmittelfeldspieler der Bundesliga"], "reason": "選手に関する一般的な印象", "category": 1.8}]
+
+
+- id => 138268
+- game => italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna
+- previous comments => А его соотечественник Эмиль Крафт. Он привлекался в молодежную сборную Швеции.
+- comment => Но не играл на Евро.
+- output: [{"clues": ["не играл на Евро"], "reason": "過去のコンペティションにおける選手の選出情報", "category": 1.4}]
+
+
+- id => 28953
+- game => england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester
+- previous comments => This is Victor Moses. Now Kante.
+- comment => The plan you would imagine for Leicester is to defend in this manner and try and hit Chelsea on the counter with that tremendous pace they've got.
+- output: [{"clues": ["The plan", "for Leicester", "defend in this manner", "tremendous pace they've got"], "reason": "解説者による試合展開の予想", "category": 3.1}]
+
+
+- id => 51787
+- game => europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona
+- previous comments => It looks like an American football type block by Aguero. He thought he was tricked.
+- comment => Throw-in given.
+- output: []
+
+
+- id => 75042
+- game => europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto
+- previous comments => Es el primer gol. El primer gol de Tello.
+- comment => Esta temporada en la Liga de Campeones.
+- output: [{"clues": ["Esta temporada", "en la Liga de Campeones"], "reason": "選手の現在の試合までのスタッツ集計", "category": 1.5}]
+
+
+- id => 58354
+- game => europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich
+- previous comments => That's something he knows, he likes a shot, he'll shoot from anywhere, doesn't need a minute, and there's the pressure put on again. Just stepped over the line of the law there, the Algerian Brahimi, which he came close to picking the pockets of Rafinha.
+- comment => If Brahimi on one side and Cherezma on the other are working that hard, it's gonna be really difficult for either of the full-backs to bomb on, certainly Rafinha likes to do that, maybe more so than Bernat down the other side.
+- output: [{"clues": ["If", "it's gonna be really difficult for either of the full-backs"], "reason": "解説者による試合展開の想定", "category": 3.1}]
+
+
+- id => 203795
+- game => spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona
+- previous comments => Va a buscar la entrada de Raquetich. Demasiado largo ese envío a las manos de Ochoa.
+- comment => Esos envíos tan alomésis que está haciendo Neymar no le están saliendo bien.
+- output: [{"clues": ["está haciendo Neymar", "no le están saliendo bien"], "reason": "解説者による選手のパフォーマンスの振り返り", "category": 3.1}]
+
+
+- id => 72432
+- game => europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City
+- previous comments => And Sevilla have halved their deficit! Fantastic skill from Koke, I think, on that right side.
+- comment => You know, again... Kolarov just switched off and Otamendi can't dive in there, but the presence of mind to think it to the far post... Where Tremolinos is unmarked.
+- output: [{"clues": ["Kolarov just switched off", "Otamendi can't dive in there", "Tremolinos is unmarked"], "reason": "解説者による試合の状況の原因の分析", "category": 3.1}]
+
+
+- id => 124555
+- game => italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli
+- previous comments => Ждали Алана, не ждали Зелинского. Ну и выбор был Инсиния или Дрис Мертенс.
+- comment => Мертенс очень неплохо сыграл против Милана, но все-таки решил Сарри, что надо дать шанс Инсинию.
+- output: [{"clues": ["Мертенс очень неплохо сыграл против Милана"], "reason": "過去の試合における選手の様子", "category": 1.4}]
+
+
+- id => 191533
+- game => spain_laliga/2016-2017/2016-10-29 - 21-45 Barcelona 1 - 0 Granada CF
+- previous comments => Ahí se va. Falta favorable al Barcelona. Cometida contra Rafinha.
+- comment => Probablemente casi va a ser la última posición de la primera mitad.
+
+
+- id => 26777
+- game => england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool
+- previous comments => I think he had to foul him because Coutinho had a little pass through, I think it was Mane making the run. FANS CHANT We saw a good 40 minutes from City in the derby last weekend, I don't think this has been as good as it was exceptional from City in that period.
+- comment => It would be better if they don't concede, of course, because Manchester City did in the last couple of minutes of the first half, which changed the complexion of that game, and it didn't cost them the win.
+
+
+- id => 92272
+- game => france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG
+- previous comments => Premier titre de l'OM. Les deux consécutifs après la grande période de domination des mers.
+- comment => Et après 27 journées Skoblarz a marqué 26 buts.
+
+
+- id => 30346
+- game => england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough
+- previous comments => Более того, в первых двух матчах Арсенал забил 3. Все 3 мяча летели в ворота Ливерпуля.
+- comment => А в следующих 6, аж 16 мячей.
+
+
+- id => 110269
+- game => germany_bundesliga/2016-2017/2017-02-04 - 20-30 Dortmund 1 - 0 RB Leipzig
+- previous comments => Sogatis. Weigl.
+- comment => Starker Kopfball von Halstenberg.
+
+
+- id => 95542
+- game => germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich
+- previous comments => Der kann aus der Distanz. Zuletzt mit einem super Freistoß.
+- comment => Alaba war sein 13.
+
+
+- id => 31816
+- game => england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester
+- previous comments => Gets you a yellow and it leaves him with a lot of football to play in this match where he can't afford to miss time a challenge. Two players are walking a suspension tightrope today.
+- comment => Robert Huth has picked up four cautions already this season.
+
+
+- id => 10785
+- game => england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool
+- previous comments => See how the story evolves, though. Here's Willian.
+- comment => Good challenge this time from Sacco to win the ball back for Liverpool.
+
+
+- id => 178290
+- game => spain_laliga/2015-2016/2016-04-02 - 21-30 Barcelona 1 - 2 Real Madrid
+- previous comments => Ahí falta. Quita el colegiado.
+- comment => Falta de Casemiro.
+
+
+- id => 43526
+- game => europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen
+- previous comments => Ball war draußen. Der Russen hat am Wochenende das Spitzenspiel in der Premier League zu Hause gewonnen.
+- comment => In Moskau mit 1 zu 0.
+
+
+- id => 198280
+- game => spain_laliga/2016-2017/2017-02-18 - 18-15 Real Madrid 2 - 0 Espanyol
+- previous comments => No encuentra Kroos, un jugador que está acostumbrado a descargar a uno o dos toques. Tiene que tener la pelota en sus pies más tiempo de lo que conviene, a la espera de encontrar alguna camiseta blanca que esté libre.
+- comment => Aprovechamos para ver de nuevo ese buen centro de Lucas Vázquez desde la derecha.
+
+
+- id => 18321
+- game => england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea
+- previous comments => A booking for Bennett, a free kick for Chelsea. Fabregas will take.
+- comment => Well, I think Mr. Mason's just running out of spray there, Bill.
+
+
+- id => 129206
+- game => italy_serie-a/2016-2017/2016-09-25 - 21-45 Fiorentina 0 - 0 AC Milan
+- previous comments => И играет сегодня Себастьян Демайо. У Фиорентины нет Давида Астори.
+- comment => Астори травмирован.
+
+
+- id => 135088
+- game => italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli
+- previous comments => Например, в прошлом году, когда Наполи был лидером, и Ювентус догонял с большим трудом Наполи. Казалось всем, что Наполи может выиграть Скудетто.
+- comment => Именно здесь решающая встреча, когда гол Симоне Дзадзе во многом лишил Наполи Скудетто.
+
+
+- id => 78593
+- game => europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla
+- previous comments => Das war ein guter Ball von Raphael. Er hat sich den Ball zurückgezogen.
+- comment => Der Ball ist anspielbar.
+
+
+- id => 108464
+- game => germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach
+- previous comments => Sieben zu eins zugunsten der Schwarz-Gelben. Und die Gladbacher können immerhin auf die Eins zeigen und sagen, na wenigstens war der drin.
+- comment => Da ist Hazard gar nicht hingegangen, weil er bewusst war, dass er im Abseitsstand und bei Ballberührung sowieso abgegriffen worden wäre.
+
+
+- id => 16523
+- game => england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd
+- previous comments => Behind Jovanovic. Three targets in the middle, and then picks out Shelby!
+- comment => Perfection for a corner.
+
+
+- id => 118730
+- game => italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus
+- previous comments => Fue el tercer cambio, creo. ¿Qué estaba pensando?
+- comment => Porque antes entraron Marcelo e Isco, que fueron grandes revulsivos, y luego el tercer cambio fue Morata, si no recuerdo mal.
+
+
+- id => 126186
+- game => italy_serie-a/2016-2017/2016-09-18 - 21-45 Fiorentina 1 - 0 AS Roma
+- previous comments => Санчес и Милич разбавились спокойно, но смотрите, это похоже на хоккейный проброс. Совершенно никуда, без адреса выбивает мяч левый защитник Фарентины.
+- comment => Рома с перевесом играет, 25-я минута.
+
+
+- id => 119103
+- game => italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan
+- previous comments => Lamentable el disparo de Ignati a destro. Del que llevo fácil dos años esperando mucho más de él.
+- comment => 24 años ya tiene el jugador.
+
+
+- id => 46357
+- game => europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Bayern Munich 2 - 0 AS Roma
+- previous comments => Saison. Frank Ribéry dennoch sein viertes Tor im Pflichtspiel.
+- comment => Sehr effizient von Europas Fußballer des Jahres im Jahre 2013.
+
+
+- id => 29094
+- game => england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester
+- previous comments => Here's Morgan. It's 21 years since the reigning champions lost the first four away matches of their defence.
+- comment => It's Blackburn Rovers.
+
+
+- id => 133567
+- game => italy_serie-a/2016-2017/2016-10-26 - 21-45 Napoli 2 - 0 Empoli
+- previous comments => Эмполи в воротах Лукаш Скорубский, польский вратарь, 28-й номер. В обороне справа Фредерик Весель, номер 13-й.
+- comment => Слева Федерико Демарко, 4-й.
+
+
+- id => 114334
+- game => italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan
+- previous comments => He did actually score twice in a friendly during the most recent international break. It's Reggiano.
+- comment => Spent that season on loan from Liverpool at Almeria in Spain.
+
+
+- id => 205755
+- game => spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid
+- previous comments => Desbordante Sergio Álvarez, deja para Marco Asensio. Otra vez Isco que insiste por el sector izquierdo.
+- comment => La pone Isco, toca de cabeza Babén, la quería recoger en la frontal James Rodríguez.
+
+
+- id => 90370
+- game => france_ligue-1/2016-2017/2017-01-21 - 19-00 Nantes 0 - 2 Paris SG
+- previous comments => Matuidi maintenant. Avec finalement un dégagement de Diego Carlos.
+- comment => Et une récupération rapide des parisiens.
+
+
+- id => 27915
+- game => england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea
+- previous comments => Well, he can celebrate 20 years at the club for Arsene Wenger, it's the 100th appearance in an Arsenal shirt for Alexis Sanchez today, that's his 47th goal, which is a fantastic track record, a fantastic strike rate. Although I've got to point out, it's not quite the same strike rate as Ian Wright, we were talking about it earlier before the match started, he scored 79 for Arsenal.
+- comment => That's all struggling there, isn't it?
+
+
+- id => 15352
+- game => england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom
+- previous comments => He's got away from Yakov who can't afford another bad challenge. He has already been booked remember.
+- comment => Yakov sent off here last season.
+
+
+- id => 173788
+- game => spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona
+- previous comments => Y en el minuto 90, también se ha ido a la parte de atrás. Se ha ido a la parte de atrás.
+- comment => Y en el minuto 90, Rafinha se ubica como defensor central mientras se prepara el jugador que va a ingresar.
+
+
+- id => 43148
+- game => england_epl/2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford
+- previous comments => That's the best we've seen from Watford as far as looking like they might be a real threat inside that 18-yard box. Kepo.
+- comment => Karko's last goal came when Watford lost at home to Southampton at the start of March.
+
+
+- id => 2054
+- game => england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool
+- previous comments => Liverpool down in 12th. It was the catalyst to quite a bit of soul searching.
+- comment => Only lost twice since.
+
+
+- id => 76291
+- game => europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 Zenit Petersburg 2 - 0 Valencia
+- previous comments => It comes to Witzel. He's not afraid to give it leather from long-range Axel Witzel.
+- comment => Scored the 76th-minute winner against Valencia on matchday one at the Mestalla.
+
+
+- id => 98454
+- game => germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund
+- previous comments => Se sigue moviendo muy bien. Tiene libertad absoluta.
+- comment => Hay que recordar que cuando jugaba en el Chelsea no tenía ni mucho menos esta libertad.
+
+
+- id => 147800
+- game => italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli
+- previous comments => Метра полтора было от штанг. Неплохое настроение у неаполитанцев.
+- comment => Мне кажется, важный момент.
+
+
+- id => 203425
+- game => spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona
+- previous comments => Ha jugado dos partidos completos de liga ante el Málaga. Los dos en el Canoia, ante la Zeta y luego que marcó un gol.
+- comment => Los más minutos seguidos que va a jugar en un partido fuera de casa va a ser este partido.
+
+
+- id => 174123
+- game => spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona
+- previous comments => Entonces, Iniesta toca de capitán a capitán. Toca al capitán del Atlético, Gaby.
+- comment => Y es el primer amonestado del Barcelona.
+
+
+- id => 150131
+- game => italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta
+- previous comments => Вот это первый раз. Отбираются нарушения.
+- comment => С нарушением правил.
+
+
+- id => 54385
+- game => europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke
+- previous comments => So it's a wing and a prayer night for the men in blue. Bale starting on the right, it is a 4-3-3 formation.
+- comment => Fabio Contral here, Alvaro Abelard and Sami Kadir are all playing for the first time for a month after injury.
+
+
+- id => 109725
+- game => germany_bundesliga/2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund
+- previous comments => Trifft Marco Reus. Und jetzt kommt Felix Wittwald.
+- comment => Gerade in einer Phase, als Werder Bremen deutlich besser ins Spiel zurückgekommen war, als man sich Möglichkeiten hatte arbeiten zu können.
+
+
+- id => 87635
+- game => europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid
+- previous comments => Sí pero es peligroso porque a balón parado prácticamente han rematado siempre ellos y hay que tener en cuenta eso y hay que tener cuidado. Bueno por la pelota que se pierde directamente fuera estamos prácticamente en la cuenta atrás de cara al descanso, entramos ya en el 35 quedan 10 para final más lo que añada Kunéis Zakir, en eliminatorias históricas entre el Madrid y equipos italianos en Europa 8 a 8, máxima igualdad también del rey de Europa contra los equipos de este país que ama el fútbol y la táctica Marcos por encima de todas las cosas.
+- comment => El fútbol italiano siempre ha sido una referencia, la Serie A tiene que volver al lugar de privilegio donde estaba hace dos décadas ahora mismo lo que se mantiene aquí es la pasión, la intensidad, hoy hemos visto que los napolitanos es 100% fútbol, están en la curva, están en el estadio, desde hace cinco o seis horas esperando este momento algunos a las 10 de la mañana ya hacían cola para coger un asiento privilegiado porque aquí no respetan el asiento asignado.
+
+
+- id => 10738
+- game => england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool
+- previous comments => When I look at the Liverpool side, this season, the Premier League, they've scored nine, and you look at this starting line-up, only Coutinho and Milner have scored a goal each. So there's two goals in this starting line-up.
+- comment => Yeah, that's right, Benteke's got three, Danny Ings is out for the season, he's got a couple, and of course... Daniel Sturridge, two.
+
+
+- id => 161149
+- game => italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa
+- previous comments => Команда, которая покинула с последнего места английский чемпионат и вылетела в чемпионшип, заработала больше, чем победитель Лиги чемпионов. Серия, конечно, о таких деньгах и слыхам не слыхивали.
+- comment => Поэтому участие в Лиге чемпионов, прямая путевка и гарантированный бюджет заработков от участия в этом турнире нужен любой команде, будь то Ювентусу или Рому, у которых финансовое положение стабильное.
+
+
+- id => 140841
+- game => italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara
+- previous comments => Но, правда, потери как ждут недолго. Равно, как и потери центрального защитника Костаса Моноласа.
+- comment => Он играл в последнем матче серии А против Аталанты.
+
+
+- id => 136897
+- game => italy_serie-a/2016-2017/2016-11-05 - 22-45 Napoli 1 - 1 Lazio
+- previous comments => Наполе в атаке, опасный момент, удар и... Но Ментон сейчас мог бы попасть в угол и открыть счет. Центрально нападающий или не центральный, дело уже другое, а вот то, что нападающий превосходный, это совершенно точно.
+- comment => Я не нарадуюсь на Дресса Мертонса, которому наконец дали место в стартовом составе, потому что я повторял это неоднократно в предыдущих сезонах, когда Мертон сидел у других тренеров еще до Сари в запасе, то выходил, то не выходил.
+
+
+- id => 69514
+- game => europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia
+- previous comments => Le deuxième pour le FC Valence dans cette première période. Un peu plus d'une demi-heure de jeu et toujours 0 à 0 entre les deux formations.
+- comment => Une grosse occasion de chaque côté.
+
+
+- id => 76793
+- game => europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma
+- previous comments => Y bueno, en su estadística hay muchos detalles a destacar, por ejemplo, en el Bernabéu completó 50 pases y de los 50, 34 fueron hacia atrás, 7 en horizontal. El pase más largo que dio hacia adelante fue el del gol.
+- comment => Fue un jugador que, muy elogiado después, pero que jugó sobre la virtud de hacer correcto lo sencillo.
+
+
+- id => 108395
+- game => germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach
+- previous comments => Und hier sehen wir, dass Sokratis kommt. Rot auf keinen Fall.
+- comment => Gelb ist genau das richtige Strafmaß für den Dortmunder Torschützen.
+
+
+- id => 92532
+- game => france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG
+- previous comments => Le contrôle était bon. De Clinton J.
+- comment => Premier ballon touché dans la surface adverse par les Marseillais.
+
+
+- id => 171181
+- game => spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna
+- previous comments => Un empate, lograr el empate paga 14,50. Y dicen que estamos viendo si las cosas siguen así.
+- comment => El Deportivo en segunda división.
+
+
+- id => 183487
+- game => spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo
+- previous comments => Es Mayo de nuevo entregando para Cabral. De Cabral que regresa al equipo para uno de los nuevos, para Facundo Roncaglia.
+- comment => En su segunda etapa en la Liga Española después de militar hace unas cuantas temporadas en el Real Club Deportivo Español.
+
+
+- id => 93163
+- game => france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG
+- previous comments => Bien joué, bien joué ce ballon de Mukonjo pour Marvaux. Marvaux qui va attendre maintenant l'appel de l'international cabronné.
+- comment => Mukonjo, il a joué plutôt avec Filippo Tho.
+
+
+- id => 55469
+- game => europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk
+- previous comments => Good ball. Alaba finding Rafinha.
+- comment => Didn't deliver quite so well.
+
+
+- id => 27011
+- game => england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal
+- previous comments => Хотя выступал за юниорский сборной Англии. И сделал выбор в пользу африканской команды.
+- comment => 20 лет этому парню.
+
+
+- id => 34540
+- game => england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool
+- previous comments => Here's Milner for Liverpool. Looking for a re-keep.
+- comment => Steve Cook across on the cover, of course it was his awful error early on against Arsenal last week that led to Arsenal's first goal, but apart from that he's been a very consistent defender, hasn't missed a league game for them for over a year now.
+
+
+- id => 53605
+- game => europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Bayer Leverkusen 1 - 0 Atl. Madrid
+- previous comments => La primera gorda es de Belarabi. Pero al final la última yo creo que también llega Papadopoulos para hacer esa falta.
+- comment => Cartulín amarilla y todavía se quejan.
+
+
+- id => 52498
+- game => europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco
+- previous comments => Monaco. Over goes Abdenour.
+- comment => They don't give many away, Monaco, nor do they score many.
+
+
+- id => 39449
+- game => england_epl/2016-2017/2017-01-14 - 20-30 Leicester 0 - 3 Chelsea
+- previous comments => Vardy hasn't played for the best part of a month. And then he was in for the FA Cup game last week at Everton.
+- comment => Worth remembering that Leicester did come from behind there to win at Goodison with Moosuk getting two goals from the bench.
+
+
+- id => 147001
+- game => italy_serie-a/2016-2017/2017-02-12 - 14-30 Crotone 0 - 2 AS Roma
+- previous comments => Ну, так как стадион небольшой, конечно, почти заполнен. Хотя есть места на трибуне.
+- comment => Чуть менее 10 тысяч мест для зрителей.
+
+
+- id => 44745
+- game => europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray
+- previous comments => Wir wollen ein anständiges Ergebnis, nicht mehr, aber auf keinen Fall weniger. Das ist nochmal so eine Abreibung und das notorisch überhitzte Fanumfeld bei diesem Nobelclub Galatasaray, so ein bisschen der FC Bayern der Türkei, Hürnerbad, im asiatischen Teil, Besiktas, da sagt man mit allem Respekt in Istanbul, dass der Club der Taxifahrer.
+- comment => Halbe Stunde ist rum, eine die große Chance für den BVB gab es, der Kopfball von Tokac zu schießen.
+
+
+- id => 75469
+- game => europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 BATE 1 - 1 Bayer Leverkusen
+- previous comments => Sie ist in der dritten Runde. Das ist Alexander Makovic.
+- comment => Er ist 40 Jahre alt.
+
+
+- id => 97914
+- game => germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg
+- previous comments => Ahí está Feintzerl. Entrenador del Augsburgo.
+- comment => Fuera de juego, claro.
+
+
+- id => 135711
+- game => italy_serie-a/2016-2017/2016-10-30 - 17-00 AC Milan 1 - 0 Pescara
+- previous comments => Середина поля с фланга. Башкович играет аргентинский вратарь налево.
+- comment => Взрослый уже голкибер 1977 года рождения.
+
+
+- id => 30576
+- game => england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom
+- previous comments => It reminded me of a throwback, Fletcher, of back in the 80s, when they had their special team, the movement, people running off the ball, a little dummy that Dalglish would have made there, what Coutinho made. And this crowd have been used to that sort of football over the years, but what a fabulous goal.
+- comment => It's only the second goal that West Brom have conceded in the first half of matches this season.
+
+
+- id => 161457
+- game => spain_laliga/2014-2015/2015-02-14 - 20-00 Real Madrid 2 - 0 Dep. La Coruna
+- previous comments => And the longer this goes on without a goal for Real Madrid the better for Deportivo La Coruña because Verona may turn on Real Madrid. 10 years ago Valentine's Day a similar story.
+- comment => There was a Ronaldo wedding a few days before the game.
+
+
+- id => 54922
+- game => europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk
+- previous comments => He knows how important that is to make sure he converts the penalty to give Bayern the advantage. Of course, not only will he get the advantage, it's just going to be so difficult for Shakhtar, it really is.
+- comment => Seven penalties out of seven for Thomas Muller this season, his last miss was against Arsenal.
+
+
+- id => 62170
+- game => europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United
+- previous comments => I wonder if that's part of the Manchester United plan tonight, they know everything likes to go through Guardado with PSV, so they're gonna try and high-press him every time the ball's played up to him from the defence. Yeah, interested to see early on in the game, Luke Shaw was playing quite high, pressing quite high as well, so I think it's always a good thing to do.
+- comment => If you can win the ball high, obviously less space, less time to get to the opponent's goal.
+
+
+- id => 191214
+- game => spain_laliga/2016-2017/2016-10-29 - 21-45 Barcelona 1 - 0 Granada CF
+- previous comments => La jugada de primeras ahí para Leo Messi. De espaldas contra Lombán.
+- comment => Salió con un caño.
+
+
+- id => 101965
+- game => germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln
+- previous comments => In einem Spiel, in dem die Bayern 70% Ballbesitz hatten, am Ende 0 zu 2 verloren. Peter Stöger hat gesagt, wir werden auch hier nur 30% Ballbesitz haben, wenn überhaupt.
+- comment => Aber wir müssen sehen, dass wir dann, wenn wir den Ball haben, etwas Vernünftiges anfangen.
+
+
+- id => 211703
+- game => spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid
+- previous comments => De Guidetti para Jozabed. Jozabed con Sisto.
+- comment => La falta y la cartulina para Casemiro.
+
+
+- id => 10695
+- game => england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool
+- previous comments => Coutinho making the run deep from midfield, here's Adam Lallana. The Jürgen Klopp believes can be 30 per cent better than he's showing so far.
+- comment => He said they've looked at his tapes from Southampton, there's a lot to come.
+
+
+- id => 59513
+- game => europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto
+- previous comments => THEY SING Porto would expect an early Bayern storm, in that sense they're not being disappointed. That pass went a little closer to Charesma, they could have been exposed, something they were able to do pretty frequently in the first leg.
+- comment => As we looked at the team's will when they were coming in, you and I both said about the pace they have, Charesma on one side and Brahimi on the other, and obviously with Jackson Martinez only just coming back into a little bit of fitness, he causes a little bit of pace at the back, but Stuber's not the same pace, or let's say he's a very good player, but maybe not just the same pace as he was before he got that bad injury that kept him out for the guts of a couple of years.
+
+
+- id => 2306
+- game => england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal
+- previous comments => Segunda temporada en el VAR. Acendió el equipo, estuvo en Watford entrenando también.
+- comment => Varias temporadas en Millwall.
+
+
+- id => 74749
+- game => europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto
+- previous comments => Como están viendo ahí en la repetición. La jugada de Zahavi en el costado con Benhaim, segundo.
+- comment => Tuvieron córner los jugadores del Maccabi, no lo señaló el árbitro.
+
+
+- id => 156381
+- game => italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma
+- previous comments => После того, как туринцы выиграли очередную встречу у Дженом, фактически не оставив геноистам ни единого шанса на спасение. Переиграв соперника с счетом 4-0 и вернув себе превосходство в 11 очков за 5 туров до окончания чемпионата Италии.
+- comment => Но в то же время Рома в случае собственной победы над Пескарой в этой встрече вновь приблизится к Ювентусу на расстояние 8 очков.
+
+
+- id => 2581
+- game => england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal
+- previous comments => Monreal con Ozil. La verdad es que no va mucho más arriba a presionar ahí el VARLEY.
+- comment => No hace, a veces, de forma puntual cuando Espina va a poner la pelota en juego para obligarle al colombiano a tener la posición de la línea de banda.
+
+
+- id => 160363
+- game => italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina
+- previous comments => Из обеих сейчас Мертенс, он бы сделал шаг, чтобы приблизиться к боснийскому нападающему. Джеко в потрясающей форме весь сезон.
+- comment => 28 мячей в чемпионате это действительно классный результат для Джеко.
+
+
+- id => 189846
+- game => spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid
+- previous comments => Para Marcelo, Marcelo. Y Cristiano que encara, se mete en el área, Cristiano se vuelve a frenar, deja para Marcelo.
+- comment => Se ofrece Isco ahí con el exterior, la saca para Kovacic, tiene terreno para buscar el pase.
+
+
+- id => 5762
+- game => england_epl/2015-2016/2015-08-29 - 17-00 Manchester City 2 - 0 Watford
+- previous comments => Second away game this season for Watford in the league. Remember they twice were in front on the opening day at Everton.
+- comment => Had to settle for 2-2.
+
+
+- id => 111293
+- game => germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen
+- previous comments => Der kommt noch mal. Ganz warmes Ding, ganz heißes Ding am Ende sogar.
+- comment => Kevin Vorland gelingt es zunehmend, da hinten die Herrschaften Sokratis, Bartra, Piszczek und Weigl zu beschäftigen.
+
+
+- id => 67174
+- game => europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus
+- previous comments => Wyspy Owczych, które dwukrotnie pokonały Grecję. To były wyniki sensacyjne.
+- comment => W tych dwóch ostatnich wrześniowych meczach z Finlandią i Rumunią.
+
+
+- id => 155826
+- game => italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese
+- previous comments => Благодаря ложному замаху убирает Давида Дувана Сапату. Который, впрочем, не то чтобы прессингует, скорее делает вид, что вступает в активный прессинг.
+- comment => В матче первого круга Наполе обыграл Динезо со счетом 2-1.
+
+
+- id => 34512
+- game => england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland
+- previous comments => The Belgian international who was injured here in Basel, made it back for the UEFA Europa League final which Liverpool lost to Sevilla. The Belgian international who was injured here in Basel, made it back for the UEFA Europa League final which Liverpool lost to Sevilla.
+- comment => The Belgian international who was injured here in Basel, made it back for the UEFA Europa League final which Liverpool lost to Sevilla.
+
+
+- id => 29796
+- game => england_epl/2016-2017/2016-10-17 - 22-00 Liverpool 0 - 0 Manchester United
+- previous comments => Lindbergh all the way back. Liverpool's front three do tend to play.
+- comment => The narrow three, particularly Mane, is really a right winger and not really a centre forward.
+
+
+- id => 183831
+- game => spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo
+- previous comments => Han venido decididos los danés hoy. No, pero lo que se puede decir, los últimos dos ataques del Celta han venido después de donde han mantenido más el balón.
+- comment => Ya le ha durado un poco más.
+
+
+- id => 26317
+- game => england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool
+- previous comments => James Milner would probably still think of himself as a bit of a stopgap, but realistically for Jürgen Klopp he's the number-one choice. He's flying on the opposite flank.
+- comment => The last away Liverpool game was Arsenal, first game of the season, and they started the first half poorly, but they were brilliant in the second half, passed it quickly, with real intent, and they started off two minutes in, but they looked confident.
+
+
+- id => 17681
+- game => england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea
+- previous comments => Three England caps came through at Walsend Boys' Club up north to produce the likes of Alan Shearer and Peter Beardsley and Steve Bruce, amongst others. Never made the breakthrough at Newcastle, having joined them as a 17-year-old.
+- comment => Really did make his name at Celtic.
+
+
+- id => 103445
+- game => germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich
+- previous comments => Auch mit der Verletzung von Daniel Ginzek. Jetzt wieder auf dem Flügel.
+- comment => Die Mannschaft ist in der 3er-Kette.
+
+
+- id => 172658
+- game => spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid
+- previous comments => Por cierto el gol de Cristiano Ronaldo, Pablo y audiencia. Es el número 226.
+- comment => Está a uno de empatar a Don Alfredo Di Stefano.
+
+
+- id => 200428
+- game => spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid
+- previous comments => Repite Karim Benzema, envío milimétrico, envío con música de James Rodríguez. Hacia el palo que no defendía ningún jugador del Eibar, por ahí entró, por ahí penetró Karim Benzema para rematar, no sé si incluso con la suela, con los tacos, para anotar el segundo gol de su equipo.
+- comment => Amplía su ventaja el Real Madrid, repite Benzema, Eibar cero, Real Madrid dos.
+
+
+- id => 86743
+- game => europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona
+- previous comments => Son premier but à Julian Draxler. En Ligue des Champions sous le maillot du PSG.
+- comment => Son 8ème dans sa carrière pour ce jeune homme.
