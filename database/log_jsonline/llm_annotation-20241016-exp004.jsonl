@@ -1,0 +1,200 @@
+{"reason": "This comment refers to a player's performance in the current game.", "category": "Include", "comment_id": 101}
+{"reason": "The comment seems to be unclear and does not provide any specific information or statistics.", "category": "Not Include", "comment_id": 132}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 230}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 447}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 511}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 535}
+{"reason": "This comment refers to the player's performance and the team's strength.", "category": "Not Include", "comment_id": 576}
+{"reason": "This comment refers to specific player's involvement in the current game.", "category": "Not Include", "comment_id": 833}
+{"reason": "This comment does not provide any supplementary information or statistics.", "category": "Not Include", "comment_id": 970}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 994}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 1079}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1174}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1192}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1425}
+{"reason": "This comment simply refers a player substitution.", "category": "Not Include", "comment_id": 1543}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 1554}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1569}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 1615}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 1694}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 1703}
+{"reason": "This comment refers to the player's current form and performance.", "category": "Not Include", "comment_id": 1730}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1864}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1922}
+{"reason": "This comment refers player's performance in last season but terrific is just a commentator's feeling", "category": "Not Include", "comment_id": 1934}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 2034}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 2080}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 2098}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 2107}
+{"reason": "This comment does not contain any supplementary information, it is a simple play-by-play commentary.", "category": "Not Include", "comment_id": 2132}
+{"reason": "This comment refers a specific action or event in the game.", "category": "Include", "comment_id": 2155}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 2323}
+{"reason": "This comment contains historical and statistical information about the team's achievement.", "category": "Include", "comment_id": 2576}
+{"reason": "This comment refers to a specific match and the performance of a team in that match.", "category": "Include", "comment_id": 2585}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 2650}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 2678}
+{"reason": "This comment contains specific numeric information about the player's goals in the Bundesliga.", "category": "Include", "comment_id": 2764}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 2771}
+{"reason": "This comment contains statistics and analysis from past matches.", "category": "Include", "comment_id": 2789}
+{"reason": "This comment contains past person stats.", "category": "Include", "comment_id": 2865}
+{"reason": "This comment refers to the current game strategy and potential adjustments.", "category": "Include", "comment_id": 2957}
+{"reason": "This comment refers to a player's position and substitution.", "category": "Not Include", "comment_id": 3114}
+{"reason": "This comment refers to the intensity of the attack, which is a subjective opinion of the commentator.", "category": "Not Include", "comment_id": 3121}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3231}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3257}
+{"reason": "This comment does not seem to contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3290}
+{"reason": "This comment refers to a player's action in the current game.", "category": "Not Include", "comment_id": 3312}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 3381}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3492}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3509}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3612}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3662}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 3787}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3837}
+{"reason": "This comment refers to a player's position and action in the current game.", "category": "Include", "comment_id": 3901}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 4094}
+{"reason": "The comment seems unrelated to the current game or any statistical information.", "category": "Not Include", "comment_id": 4119}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4204}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 4333}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 4498}
+{"reason": "This comment does not contain any supplementary information related to statistics, data, or past events.", "category": "Not Include", "comment_id": 4541}
+{"reason": "This comment refers to the current match status and time.", "category": "Include", "comment_id": 4556}
+{"reason": "This comment refers to a general trend or preference among goalkeepers.", "category": "Not Include", "comment_id": 4608}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 4649}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 4667}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4705}
+{"reason": "This comment represents subjective opinion from commentator and does not include any supplementary information related to the game or players.", "category": "Not Include", "comment_id": 4866}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4898}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5025}
+{"reason": "This comment contains past player stats.", "category": "Include", "comment_id": 5033}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5058}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5160}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5170}
+{"reason": "This comment refers to a player's performance in the current game.", "category": "Not Include", "comment_id": 5204}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5275}
+{"reason": "This comment refers to a player's action in the current game.", "category": "Not Include", "comment_id": 5347}
+{"reason": "This comment refers to a specific event in a past match.", "category": "Include", "comment_id": 5371}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5538}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5640}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5663}
+{"reason": "This comment refers to a player's performance under pressure.", "category": "Not Include", "comment_id": 5666}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5712}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5770}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5924}
+{"reason": "This comment refers to the current game situation.", "category": "Include", "comment_id": 5954}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5995}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6040}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Not Include", "comment_id": 6062}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6068}
+{"reason": "This comment refers to the current match and the points distribution.", "category": "Include", "comment_id": 6119}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6139}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6151}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6158}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6288}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6377}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6404}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 6446}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6559}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6721}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6810}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6881}
+{"reason": "This comment refers to a player's performance in the current game.", "category": "Include", "comment_id": 101}
+{"reason": "The comment seems to be unclear and does not provide any specific information or statistics.", "category": "Not Include", "comment_id": 132}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 230}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 447}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 511}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 535}
+{"reason": "This comment refers to the player's performance and the team's strength.", "category": "Not Include", "comment_id": 576}
+{"reason": "This comment refers to the players' positions and roles on the field.", "category": "Not Include", "comment_id": 833}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 970}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 994}
+{"reason": "This comment refers to the team's performance in the current game.", "category": "Include", "comment_id": 1079}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1174}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1192}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1425}
+{"reason": "This comment simply refers a player substitution.", "category": "Not Include", "comment_id": 1543}
+{"reason": "This comment does not contain any supplementary information or statistics researched from current and past matches, events, and past interviews.", "category": "Not Include", "comment_id": 1554}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1569}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1615}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 1694}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 1703}
+{"reason": "This comment refers to the player's recent performance and can be considered as a subjective opinion.", "category": "Not Include", "comment_id": 1730}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 1864}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 1922}
+{"reason": "This comment refers player's performance in last season but terrific is just a commentator's feeling", "category": "Not Include", "comment_id": 1934}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 2034}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 2080}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 2098}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 2107}
+{"reason": "This comment does not contain any supplementary information, it is a simple play-by-play commentary.", "category": "Not Include", "comment_id": 2132}
+{"reason": "This comment refers a specific action or event in the game.", "category": "Include", "comment_id": 2155}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 2323}
+{"reason": "This comment contains historical and statistical information about the team's achievement.", "category": "Include", "comment_id": 2576}
+{"reason": "This comment refers to a specific match and the performance of a team in that match.", "category": "Include", "comment_id": 2585}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 2650}
+{"reason": "This comment refers to potential future clubs for a player, which is not a factual or statistical information.", "category": "Not Include", "comment_id": 2678}
+{"reason": "This comment contains data from current and past matches.", "category": "Include", "comment_id": 2764}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 2771}
+{"reason": "This comment contains statistics and analysis from past matches.", "category": "Include", "comment_id": 2789}
+{"reason": "This comment contains past person stats.", "category": "Include", "comment_id": 2865}
+{"reason": "This comment refers to the tactical adjustment of the team.", "category": "Include", "comment_id": 2957}
+{"reason": "This comment refers to a player's position on the field.", "category": "Not Include", "comment_id": 3114}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 3121}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3231}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 3257}
+{"reason": "The comment does not contain any supplementary information or statistics researched from current and past matches, events, and past interviews.", "category": "Not Include", "comment_id": 3290}
+{"reason": "This comment refers to a player's action in the current game.", "category": "Not Include", "comment_id": 3312}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 3381}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 3492}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3509}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3612}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3662}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 3787}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 3837}
+{"reason": "This comment refers to a player's position and action in the current game.", "category": "Include", "comment_id": 3901}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 4094}
+{"reason": "The comment seems unrelated to the current game or any relevant statistics.", "category": "Not Include", "comment_id": 4119}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4204}
+{"reason": "This comment refers to a specific action in the game.", "category": "Not Include", "comment_id": 4333}
+{"reason": "This comment refers to a specific event in the game.", "category": "Not Include", "comment_id": 4498}
+{"reason": "This comment does not contain any supplementary information related to statistics or data.", "category": "Not Include", "comment_id": 4541}
+{"reason": "This comment refers to the current match status.", "category": "Include", "comment_id": 4556}
+{"reason": "This comment refers to a general trend or preference among goalkeepers.", "category": "Not Include", "comment_id": 4608}
+{"reason": "This comment refers to the current game situation and team's performance.", "category": "Include", "comment_id": 4649}
+{"reason": "This comment refers to a past event or statistic.", "category": "Include", "comment_id": 4667}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4705}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 4866}
+{"reason": "This comment simply refers a player name.", "category": "Not Include", "comment_id": 4898}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5025}
+{"reason": "This comment contains past person stats.", "category": "Include", "comment_id": 5033}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5058}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5160}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5170}
+{"reason": "This comment refers to a player's performance in the current game.", "category": "Not Include", "comment_id": 5204}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5275}
+{"reason": "This comment refers to a player's action in the current game.", "category": "Not Include", "comment_id": 5347}
+{"reason": "This comment refers to a specific event in a past match.", "category": "Include", "comment_id": 5371}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5538}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5640}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 5663}
+{"reason": "This comment refers to a player's performance under pressure.", "category": "Not Include", "comment_id": 5666}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5712}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5770}
+{"reason": "This comment represents subjective opinion from commentator.", "category": "Not Include", "comment_id": 5924}
+{"reason": "This comment refers to the current game situation.", "category": "Include", "comment_id": 5954}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 5995}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6040}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Not Include", "comment_id": 6062}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6068}
+{"reason": "This comment refers to the current match and the points distribution.", "category": "Include", "comment_id": 6119}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6139}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6151}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6158}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6288}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6377}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6404}
+{"reason": "This comment refers to a specific event in the game.", "category": "Include", "comment_id": 6446}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6559}
+{"reason": "This comment refers to a specific event in the current game.", "category": "Include", "comment_id": 6721}
+{"reason": "This comment refers to a specific action in the current game.", "category": "Not Include", "comment_id": 6810}
+{"reason": "This comment does not contain any supplementary information or statistics.", "category": "Not Include", "comment_id": 6881}
